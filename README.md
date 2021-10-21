@@ -3,8 +3,8 @@
 
 ## Full Stack Developer
 
-- 🔭 I’m currently working on a travel app using springboot, hibernate and thymeleaf
-- 🌱 I’m currently learning google map API
+- 🔭 I’m currently doing the 100 days of code challenge
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
