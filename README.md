@@ -1,7 +1,7 @@
 ### Hi, I'm Sharon👋
 
 
-## Full Stack Developer
+## Front-end Developer
 
 - 🔭 I’m currently taking a web development bootcamp
 - 🌱 I’m currently learning React
