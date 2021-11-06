@@ -3,7 +3,6 @@
 
 ## Front-end Developer
 
-- 🔭 I’m currently taking a web development bootcamp
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
