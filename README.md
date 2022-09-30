@@ -1,7 +1,7 @@
 ### Hi, I'm Sharon👋
 
 
-## Front-end Developer
+## Software Developer
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other content creators
