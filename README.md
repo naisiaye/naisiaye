@@ -1,7 +1,7 @@
 ### Hi, I'm Sharon👋
 
 
-## Frontend Developer
+## Web Developer
 - 👀 I’m interested in AWS
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other content creators
