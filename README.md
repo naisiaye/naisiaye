@@ -2,7 +2,7 @@
 
 
 ## Web Developer
-- 👀 I’m interested in AWS
+- 👀 I’m interested in learning React
 - 🌱 I’m currently in a Bootcamp
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Contribute more to Open Source projects
